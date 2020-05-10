@@ -4,7 +4,7 @@
 * https://developer.android.com/studio/projects/android-library.html
 * https://stuff.mit.edu/afs/sipb/project/android/sdk/android-sdk-linux/tools/proguard/docs/index.html#manual/examples.html
 * https://code.tutsplus.com/tutorials/creating-and-publishing-an-android-library--cms-24582
-* **[Things I wish I knew when I started building Android SDK/Libraries](https://android.jlelse.eu/things-i-wish-i-knew-when-i-started-building-android-sdk-libraries-dba1a524d619)**
+* **[Things I wish I knew when I started building Android SDK/Libraries](https://crushingcode.nisrulz.com/posts/things-i-wish-i-knew-when-i-started-building-android-sdk-libraries/)**
 * https://mayojava.github.io/android/library/creating-and-distributing-your-own-android-library/
 * http://www.vogella.com/tutorials/AndroidLibraryProjects/article.html
 * https://medium.com/@daniellevass/how-to-start-making-your-own-with-library-project-in-android-studio-22706a407780
