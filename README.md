@@ -9,6 +9,7 @@
 * http://www.vogella.com/tutorials/AndroidLibraryProjects/article.html
 * https://medium.com/@daniellevass/how-to-start-making-your-own-with-library-project-in-android-studio-22706a407780
 * **[How to Publish Your Android Studio Library to JCenter](https://medium.com/@daniellevass/how-to-publish-your-android-studio-library-to-jcenter-5384172c4739)**
+*https://www.vogella.com/tutorials/AndroidLibraryProjects/article.html
 
 ### Publishing Library
 
